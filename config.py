@@ -1,6 +1,6 @@
 session_name = "example"
-api_id = 1234567
-api_hash = "123abcd123abcd123abcd"
-channel_id = -1001234567890
+api_id = 5404706
+api_hash = "0bd6b7e98cc44bd7e1817042e714f0c4"
+channel_id = -849743718
 
 last_messages_amount = 50
